@@ -1,0 +1,17 @@
+body{
+    font-family: 'GmarketSansMedium', 'S-CoreDream-3Light', sans-serif;
+    font-size: 1rem;
+    color: #222;
+    letter-spacing: -0.083em;
+    line-height: 2;
+}
+*{ margin: 0; padding: 0;}
+
+a{
+    color: #222;
+    text-decoration: none;
+}
+
+li, dl, dt, dd, ul, ol{
+    list-style: none;
+}
